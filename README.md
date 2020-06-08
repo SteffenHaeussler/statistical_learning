@@ -1,4 +1,5 @@
-# statistical_learning
-code translation from R to python based on introduction of statistical learning withouth comments
+# Statistical Learning
+This repository started as a simple translation from R to python.
 
-With some huge time delay, I started to add explanations and theory to each chapter (not in master branch). There should be double time in one life. :) 
+Currently some light-weighted theory and some additional comments will be added.
+The idea is to create an online learning ressource for me.
