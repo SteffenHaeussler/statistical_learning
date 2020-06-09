@@ -4,4 +4,7 @@ This repository started as a simple translation from R to python and moved to a 
 Following parts are done:
 - [regression](https://github.com/SteffenHaeussler/statistical_learning/blob/master/python/regression.ipynb)
 - [classification](https://github.com/SteffenHaeussler/statistical_learning/blob/master/python/classification.ipynb)
-- [tree-based-methods](https://github.com/SteffenHaeussler/statistical_learning/blob/master/python/tree_based_methods.ipynb)
+- [tree-based-methods](https://github.com/SteffenHaeussler/statistical_learning/blob/master/python/tree_based_methods.ipynb) (quite large! plotting of decision trees inside the notebook)
+-[cross validation](https://github.com/SteffenHaeussler/statistical_learning/blob/master/python/cross_validation.ipynb)
+
+
